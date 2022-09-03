@@ -9,6 +9,7 @@ In this repository, we provide the source code, optimization models, and executa
 - Gurobi Optimizer (https://gurobi.com)
   - Setting `GUROBI_HOME` environment variable
 - Google's Hash Map ([libsparsehash-dev](https://packages.debian.org/sid/libsparsehash-dev) Debian package)
+- Netronome nfp4build and nfp-nffw
 
 ## Installing/Compiling Dyssect
 ```
@@ -23,6 +24,10 @@ In this repository, we provide the source code, optimization models, and executa
 ```
 
 ## Running Dyssect
+
+### Netronome SmartNIC
+
+We provide source code (SmartNIC/\*.p4 and SmartNIC/\*.c) for Netronome SmartNIC (Hardware, Hardware+Software, and Software).
 
 ### Model Optimizer
 
