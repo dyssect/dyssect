@@ -25,6 +25,10 @@ In this repository, we provide the source code, optimization models, and executa
 
 ## Running Dyssect
 
+### FastClick
+
+We provide source code (FastClick/*) for Dyssect in FastClick (https://github.com/tbarbette/fastclick).
+
 ### Netronome SmartNIC
 
 We provide source code (SmartNIC/\*.p4 and SmartNIC/\*.c) for Netronome SmartNIC (Hardware, Hardware+Software, and Software).
